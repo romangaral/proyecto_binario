@@ -7,9 +7,9 @@ time.sleep(1)
 print("Menu:")
 time.sleep(1)
 
-print("a -- Decimal a binario.")
-print("b -- Binario a decimal.")
-time.sleep(2)
+print("a -- Decimal a Binario.")
+print("b -- Binario a Decimal.")
+time.sleep(1)
 
 opcion=input("Elige una opcion --- a o b --- ")
 
